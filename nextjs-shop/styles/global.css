@@ -1,0 +1,17 @@
+:root 
+{
+    font-family: "Inter";
+    background-color: #f4f2f2;
+    
+} 
+
+.drawer {
+    height: 100vh;
+    width: 100vw;
+    z-index: 3;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+

@@ -1,0 +1,23 @@
+
+.basked {
+    background-color: #fafafa;
+    width: 30vw;
+    height: 100vh;
+    overflow: auto;
+}
+
+.basked * { margin: 0; }
+
+.arrow {
+    background-color: #fffefe;
+    width: 3vw;
+    height: 100vh;
+}
+
+.arrowCenter {
+     margin-top: 48vh; 
+     color: black;
+}
+
+.arrowCenter:hover { color: blue; }
+

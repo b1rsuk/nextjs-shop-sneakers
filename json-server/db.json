@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "title": "Sneakers1",
+      "src": "/sneakers/1.jpg",
+      "price": "25000",
+      "currency": "rub",
+      "id": 1
+    },
+    {
+      "title": "Sneakers2",
+      "src": "/sneakers/2.jpg",
+      "price": "35000",
+      "currency": "rub",
+      "id": 2
+    },
+    {
+      "title": "Sneakers3",
+      "src": "/sneakers/3.jpg",
+      "price": "35000",
+      "currency": "rub",
+      "id": 3
+    },
+    {
+      "title": "Sneakers4",
+      "src": "/sneakers/4.jpg",
+      "price": "35000",
+      "currency": "rub",
+      "id": 4
+    },
+    {
+      "title": "Sneakers5",
+      "src": "/sneakers/5.jpg",
+      "price": "35000",
+      "currency": "rub",
+      "id": 5
+    },
+    {
+      "title": "Sneakers6",
+      "src": "/sneakers/6.jpg",
+      "price": "35000",
+      "currency": "rub",
+      "id": 6
+    },
+    {
+      "title": "Sneakers7",
+      "src": "/sneakers/7.jpg",
+      "price": "12500",
+      "currency": "rub",
+      "id": 7
+    },
+    {
+      "title": "Sneakers8",
+      "src": "/sneakers/8.jpg",
+      "price": "55000",
+      "currency": "rub",
+      "id": 8
+    },
+    {
+      "title": "Sneakers9",
+      "src": "/sneakers/9.jpg",
+      "price": "15000",
+      "currency": "rub",
+      "id": 9
+    },
+    {
+      "title": "Sneakers10",
+      "src": "/sneakers/10.jpg",
+      "price": "5000",
+      "currency": "rub",
+      "id": 10
+    }
+  ],
+  "carditem": [
+    {
+      "name": "Sneakers2",
+      "price": "35000",
+      "currency": "rub",
+      "src": "/sneakers/2.jpg",
+      "title": "Sneakers2",
+      "love": true,
+      "id": 1
+    },
+    {
+      "name": "Sneakers3",
+      "price": "35000",
+      "currency": "rub",
+      "src": "/sneakers/3.jpg",
+      "title": "Sneakers3",
+      "love": true,
+      "id": 2
+    }
+  ]
+}
